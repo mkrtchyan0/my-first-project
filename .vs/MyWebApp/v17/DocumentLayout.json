@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE0F927-25C6-4B88-95C4-EFEC769B6300}|MyWebApp.Models\\MyWebApp.Models.csproj|C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\mywebapp.models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE0F927-25C6-4B88-95C4-EFEC769B6300}|MyWebApp.Models\\MyWebApp.Models.csproj|solutionrelative:mywebapp.models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|c:\\users\\acer\\desktop\\app\\mywebapp\\mywebapp\\mywebapp\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\mywebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3EA4855-C60A-4503-B224-100B25FFEF02}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:27:01.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp.Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "MyWebApp.Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp.Models\\StudentModel.cs",
+              "RelativeToolTip": "MyWebApp.Models\\StudentModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:27:44.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:11:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Student\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T20:56:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\App\\MyWebApp\\MyWebApp\\MyWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T05:39:24.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.deps.json
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\refint\MyWebApp.Models.dll
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\source\repos\ConsoleApp38\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\ref\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.deps.json
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfo.cs
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\refint\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\Desktop\OnlieShop\MyWebApp (1)\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\ref\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.deps.json
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\bin\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.AssemblyInfo.cs
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\refint\MyWebApp.Models.dll
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\MyWebApp.Models.pdb
+C:\Users\ACER\Desktop\App\MyWebApp\MyWebApp\MyWebApp.Models\obj\Debug\net8.0\ref\MyWebApp.Models.dll
